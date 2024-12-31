@@ -1,5 +1,5 @@
 const  { describe, expect, test } =  require("@jest/globals");
-const  { score }  = require("../challenges");
+const { score } = require("../greed_dice");
 
 
 // Testing Greed dice challenge
