@@ -1,7 +1,7 @@
 **CODEWARS CHALLENGES**
 
 1. Challenge 1
-   For my first Codewars challenge, Ichose to implement the Greed dice game. My approach involved filtering the array to isolate each element that contributes to the score. I then applied the scoring rules to these filtered values based on the games's guilines:
+   For my first Codewars challenge, I chose to implement the Greed dice game. My approach involved filtering the array to isolate each element that contributes to the score. I then applied the scoring rules to these filtered values based on the games's guilines:
 *    Three 1's => 1000 points
 *    Three 6's => 600 points
 *    Three 5's => 400 points
